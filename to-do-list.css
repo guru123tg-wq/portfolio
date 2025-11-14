@@ -1,0 +1,76 @@
+
+    body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: whitesmoke;
+}
+
+header {
+    background: #0a0a23;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    
+}
+
+section {
+    padding: 40px 0;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills ul li {
+    background: #0a0a23;
+    color: rgb(40, 214, 153);
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.project-card {
+    background: rgb(134, 33, 33);
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    color: rgb(255, 255, 255);
+}
+
+.project-card a {
+    display: inline-block;
+    padding: 8px 12px;
+    background: #0a0a23;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.project-card a:hover {
+    background: #1e1e50;
+}
+
+.contact p {
+    margin: 8px 0;
+}
+
+footer {
+    background: #0a0a23;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
